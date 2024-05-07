@@ -1,7 +1,7 @@
 👨‍💻 **Muneeb Ali** | Software Engineer & Data Enthusiast
 - 🚀 Exploring **Data Analytics**, **Machine Learning** & **AI**
 - 🎓 Studying Software Engineering @ **University of Calgary**
-- 💼 Entrepreneur & Senior Marketing Consultant
+- 💼 Entrepreneur & Machine Learning Researcher
 - 🌱 Seeking **Software Engineering internships**
 - 🤝 Open to collaborations on tech projects & hackathons
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/muneebalichishti01/)
