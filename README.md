@@ -1,14 +1,13 @@
-👨‍💻 **Muneeb Ali** | Software Engineer & Data Enthusiast
-- 🚀 Exploring **Data Analytics**, **Machine Learning** & **AI**
-- 🎓 Studying Software Engineering @ **University of Calgary**
-- 💼 Entrepreneur & Machine Learning Researcher
-- 🌱 Seeking **Data Science & Engineering Internships**
-- 🤝 Open to collaborations on tech projects & hackathons
-- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/muneebalichishti01/)
-- 📷 Hobbyist Photographer | Advocate for **Self-Care**
+👨‍💻 **Muneeb Ali** | Software Engineer & Innovator  
+- 🚀 Exploring **Data Analytics**, **Machine Learning**, and **AI**  
+- 🎓 Studying Software Engineering @ **University of Calgary**  
+- 💼 Co-Founder of Workflow | Machine Learning Researcher  
+- 🌱 Passionate Entrepreneur Driving Innovation  
+- 🤝 Supporting **Impactful Ventures and Initiatives**  
+- 📷 Hobbyist Photographer | Advocate for **Self-Care**  
 
----
-#### **Let's innovate and inspire.** 🌟
+--- 
+#### **Let’s innovate and inspire!** 🌟  
 ---
 
 ## 🤖🧠 ML Tech Stack:
