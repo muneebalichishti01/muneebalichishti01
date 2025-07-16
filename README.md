@@ -1,7 +1,7 @@
 👨‍💻 **Muneeb Ali** | Software Engineer & Innovator  
 - 🚀 Exploring **Data Analytics**, **Machine Learning**, and **AI**  
 - 🎓 Studying Software Engineering @ **University of Calgary**  
-- 💼 Co-Founder of Workflow | Machine Learning Researcher  
+- 💼 Co-Founder of WorkSwipe | Machine Learning Researcher  
 - 🌱 Passionate Entrepreneur Driving Innovation  
 - 🤝 Supporting **Impactful Ventures and Initiatives**  
 - 📷 Hobbyist Photographer | Advocate for **Self-Care**  
