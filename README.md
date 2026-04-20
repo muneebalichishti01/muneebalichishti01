@@ -6,6 +6,8 @@
 - 🤝 Supporting **Impactful Ventures and Initiatives**  
 - 📷 Exploring Startups | Advocate for **Self-Care**  
 
+Leveraging expertise in machine/deep learning, computer vision, LLMs, and entrepreneurial strategy to build solutions that redefine industries.
+
 --- 
 #### **Let’s innovate and inspire!** 🌟  
 ---
