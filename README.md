@@ -16,7 +16,7 @@
 
 I started building stuff at 10: from tearing apart Windows to developing Unity games as a teenager to growing a cinema brand to 80K+ check-ins before I even had a resume (all before turning 18).
 
-By 22, I have shipped 6 ventures: AI e-books, a marketing course brand, vertical AI for livestock, an AI meeting copilot, a recruitment platform, and now **Rexmont** (AI for enterprise RFx responses).
+By 22, I have shipped 6 ventures: AI e-book generation, a digital marketing brand, vertical AI for livestock, an AI meeting copilot, a recruitment platform, and now **Rexmont** (AI for enterprise RFx responses).
 
 Each of those 5 unsponsored R&D experiments taught me a layer Rexmont needs: distribution, AI pipelines, B2B sales, enterprise document workflows, and how teams make or break everything. So let's innovate and inspire together!
 
