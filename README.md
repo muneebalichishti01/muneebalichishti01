@@ -14,18 +14,20 @@
 
 ### 🚀 Quick Spiel
 
-I started building stuff at 10: from tearing apart Windows to developing Unity games as a teenager to growing a cinema brand to 80K+ check-ins before I even had a resume (all before turning 18). 
+I started building stuff at 10: from tearing apart Windows to developing Unity games as a teenager to growing a cinema brand to 80K+ check-ins before I even had a resume (all before turning 18).
 
-By 22, I have shipped 6 ventures: AI e-book generation that grew into a marketing brand, vertical AI for livestock, an AI meeting copilot, native AI-based TikTok for a recruitment app, AI for enterprise RFx proposal generation, and **now AI for growing SMBs' online presence**.
+By 22, I have shipped 6 ventures: AI e-book generation that grew into a marketing brand, vertical AI for livestock, an AI meeting copilot, native AI-based TikTok for recruitment app, AI for enterprise RFx proposal generation, and **now AI for growing SMBs' online presence**.
 
 Each of those 6 unsponsored R&D experiments taught me a unique layer I needed: distribution, AI pipelines, B2B sales, enterprise document workflows, how teams make or break everything, and what SMBs really need - outcomes!
+
+**So let's keep building because now I build for outcomes!**
 
 ---
 
 ### 🔭 Currently Building
 
-> **Rexmont Global** — AI-powered B2B SaaS automating responses to complex RFx documents (RFPs, RFQs, RFIs).
-> Architecting multi-agent systems, RAG pipelines, and document intelligence for enterprise procurement workflows.
+> **Merto AI** — AI native infrastructure for SMBs to grow their businesses.
+> Architecting multi-agent systems, RAG pipelines, and marketing intelligence for SMB workflow management.
 
 ---
 
