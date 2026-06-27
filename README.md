@@ -1,5 +1,5 @@
 <h1 align="center">👨‍💻 Muneeb Ali</h1>
-<h3 align="center">Software Engineer & Entrepreneur · Building Rexmont Global</h3>
+<h3 align="center">Software Engineer & Entrepreneur · Building Merto AI</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/muneebalichishti01/">
