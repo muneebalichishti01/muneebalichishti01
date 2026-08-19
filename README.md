@@ -16,7 +16,7 @@
 
 I started building stuff at 10: from tearing apart Windows to developing Unity games as a teenager to growing a cinema brand to 80K+ check-ins before I even had a resume (all before turning 18).
 
-By 22, I have shipped 7 ventures: AI e-book generation that grew into a marketing brand, vertical AI for livestock, an AI meeting copilot, native AI-based TikTok for recruitment app, AI for enterprise RFx proposal generation, AI native agency, and now **shared AI system for dealerships (multiplayer ai)**.
+By 23, I have shipped 7 ventures: AI e-book generation that grew into a marketing brand, vertical AI for livestock, an AI meeting copilot, native AI-based TikTok for recruitment app, AI for enterprise RFx proposal generation, AI native agency, and now **shared AI system for dealerships (multiplayer ai)**.
 
 Each of those 7 unsponsored R&D experiments taught me a unique layer I needed: distribution, AI pipelines, B2B sales, enterprise document workflows, how teams make or break everything, and what SMBs really need - outcomes!
 
